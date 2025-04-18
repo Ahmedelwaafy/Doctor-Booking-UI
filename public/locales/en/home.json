@@ -1,0 +1,88 @@
+{
+  "header": {
+    "home": "Home",
+    "doctors": "Doctors",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "signIn": "Sign In"
+  },
+  "doctorDirectory": {
+    "title": "Find a Doctor",
+    "filters": {
+      "title": "Filters",
+      "specialty": "Specialty",
+      "availability": "Availability",
+      "allSpecialties": "All Specialties",
+      "anyDay": "Any Day",
+      "clearFilters": "Clear filters"
+    },
+    "results": {
+      "doctorsFound_one": "{{count}} doctor found",
+      "doctorsFound_other": "{{count}} doctors found"
+    },
+    "noResults": {
+      "message": "No doctors match your current filters.",
+      "action": "Clear Filters"
+    },
+    "bookAppointment": "Book Appointment"
+  },
+  "bookingModal": {
+    "title": "Book Appointment",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "cancel": "Cancel",
+    "confirm": "Confirm Booking"
+  },
+  "appointments": {
+    "title": "Your Appointments",
+    "empty": {
+      "title": "No appointments yet",
+      "message": "You don't have any appointments scheduled. Find a doctor and book your first appointment.",
+      "action": "Browse Doctors"
+    },
+    "cancel": "Cancel",
+    "confirmed": "Confirmed"
+  },
+  "days": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday"
+  },
+  "notifications": {
+    "appointmentBooked": "Appointment booked successfully",
+    "appointmentCanceled": "Appointment canceled"
+  },
+  "footer": {
+    "description": "Providing quality healthcare services with a focus on patient comfort and well-being.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "items": {
+        "home": "Home",
+        "findDoctor": "Find a Doctor",
+        "services": "Services",
+        "about": "About Us",
+        "contact": "Contact"
+      }
+    },
+    "services": {
+      "title": "Services",
+      "items": {
+        "primaryCare": "Primary Care",
+        "specialtyConsults": "Specialty Consults",
+        "preventiveCare": "Preventive Care",
+        "telehealth": "Telehealth",
+        "mentalHealth": "Mental Health"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "123 Health Avenue, Medical District, NY 10001",
+      "phone": "(123) 456-7890",
+      "email": "contact@invitrohealth.com"
+    },
+    "copyright": "© {{year}} InVitro Health. All rights reserved."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "error": {
+    "title": "خطأ",
+    "tryAgain": "حاول مرة أخرى",
+    "somethingWentWrong": "حدث خطأ ما",
+    "apologies": "نعتذر عن الإزعاج"
+  },
+  "notifications": {
+    "appointmentBooked": "تم حجز الموعد بنجاح",
+    "appointmentCanceled": "تم إلغاء الموعد",
+    "confirmCancel": "هل أنت متأكد أنك تريد إلغاء هذا الموعد؟"
+  }
+}

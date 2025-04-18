@@ -1,0 +1,88 @@
+{
+  "header": {
+    "home": "الرئيسية",
+    "doctors": "الأطباء",
+    "services": "الخدمات",
+    "about": "عن المركز",
+    "contact": "اتصل بنا",
+    "signIn": "تسجيل الدخول"
+  },
+  "doctorDirectory": {
+    "title": "ابحث عن طبيب",
+    "filters": {
+      "title": "التصفية",
+      "specialty": "التخصص",
+      "availability": "التوفر",
+      "allSpecialties": "جميع التخصصات",
+      "anyDay": "أي يوم",
+      "clearFilters": "مسح التصفية"
+    },
+    "results": {
+      "doctorsFound_one": "تم العثور على {{count}} طبيب",
+      "doctorsFound_other": "تم العثور على {{count}} أطباء"
+    },
+    "noResults": {
+      "message": "لا يوجد أطباء يطابقون معايير البحث الحالية.",
+      "action": "مسح التصفية"
+    },
+    "bookAppointment": "حجز موعد"
+  },
+  "bookingModal": {
+    "title": "حجز موعد",
+    "selectDate": "اختر التاريخ",
+    "selectTime": "اختر الوقت",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد الحجز"
+  },
+  "appointments": {
+    "title": "مواعيدك",
+    "empty": {
+      "title": "لا توجد مواعيد حتى الآن",
+      "message": "ليس لديك أي مواعيد محجوزة. ابحث عن طبيب واحجز موعدك الأول.",
+      "action": "تصفح الأطباء"
+    },
+    "cancel": "إلغاء",
+    "confirmed": "مؤكد"
+  },
+  "days": {
+    "monday": "الاثنين",
+    "tuesday": "الثلاثاء",
+    "wednesday": "الأربعاء",
+    "thursday": "الخميس",
+    "friday": "الجمعة"
+  },
+  "notifications": {
+    "appointmentBooked": "تم حجز الموعد بنجاح",
+    "appointmentCanceled": "تم إلغاء الموعد"
+  },
+  "footer": {
+    "description": "نقدم خدمات رعاية صحية عالية الجودة مع التركيز على راحة المريض ورفاهيته.",
+    "quickLinks": {
+      "title": "روابط سريعة",
+      "items": {
+        "home": "الرئيسية",
+        "findDoctor": "ابحث عن طبيب",
+        "services": "الخدمات",
+        "about": "عن المركز",
+        "contact": "اتصل بنا"
+      }
+    },
+    "services": {
+      "title": "الخدمات",
+      "items": {
+        "primaryCare": "الرعاية الأولية",
+        "specialtyConsults": "استشارات التخصصات",
+        "preventiveCare": "الرعاية الوقائية",
+        "telehealth": "الرعاية عن بعد",
+        "mentalHealth": "الصحة النفسية"
+      }
+    },
+    "contact": {
+      "title": "اتصل بنا",
+      "address": "123 شارع الصحة، الحي الطبي، نيويورك 10001",
+      "phone": "(123) 456-7890",
+      "email": "contact@invitrohealth.com"
+    },
+    "copyright": "© {{year}} إنفيترو هيلث. جميع الحقوق محفوظة."
+  }
+}

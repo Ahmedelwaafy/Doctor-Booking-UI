@@ -1,0 +1,13 @@
+{
+  "error": {
+    "title": "Error",
+    "tryAgain": "Try Again",
+    "somethingWentWrong": "Something went wrong",
+    "apologies": "We apologize for the inconvenience"
+  },
+  "notifications": {
+    "appointmentBooked": "Appointment booked successfully",
+    "appointmentCanceled": "Appointment canceled",
+    "confirmCancel": "Are you sure you want to cancel this appointment?"
+  }
+}
